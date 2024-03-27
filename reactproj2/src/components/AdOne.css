@@ -1,0 +1,22 @@
+.adspace{
+    height:121px;
+    background-color: #F8F8F8;
+    border-top: 1px;
+    border: 1px solid #e2e2e2;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.adheading{
+    padding-top:11px;
+    font-size: 10px;
+    padding-bottom: 10px;
+    padding-left: auto;
+    padding-right: auto;
+    color:#727272
+}
+
+.adimg{
+    width: 728px;
+    height: 90px;
+}

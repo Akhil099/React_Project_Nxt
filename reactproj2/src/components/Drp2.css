@@ -1,0 +1,12 @@
+.container-sb {
+    display: inline-block; /* Start hidden and will be shown via JavaScript or :hover */
+    position: absolute;
+    left: 100%; /* Position the submenu to the right of the item */
+    top: 0;
+    background-color: #ffffff; /* Match the main menu or as desired */
+    border: 1px solid #e2e2e2; /* Similar to the main menu */
+    z-index: 1010; /* Slightly higher than the main menu to ensure it's on top */
+    width: 200px; /* Or any specific width */
+    /* Additional styling as needed */
+}
+

@@ -1,0 +1,10 @@
+.sub-article-link{
+    text-decoration: none;
+    color: black;
+    padding-left: 0;
+}
+
+
+.sub-article-link:hover{
+    text-decoration: underline;
+}
